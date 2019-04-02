@@ -1,3 +1,5 @@
+# This is a draft for the Steem post on the special account @steemonob, which is used strictly for this project. 
+
 #### Repository
 My GitHub account/ repo for this project: https://github.com/DiggnDeeper/Steem-OpenBazaar-Integration
 
