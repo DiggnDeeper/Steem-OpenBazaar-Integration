@@ -5,17 +5,16 @@ My GitHub account/ repo for this project: https://github.com/DiggnDeeper/Steem-O
 
 #### Details
 - What is OpenBazaar?
-OpenBazaar is an open source, decentralized platform for trading physical goods, services and crypto-currencies. The platform has an excellent escrow system for conflict resolution. 
+[OpenBazaar](https://openbazaar.org/) is an open source, peer-to-peer platform for trading physical goods, services and crypto-currencies. There are no fees for using the software, listing, buying, or selling. It is easy to use and fully featured with inventory and listing management, product variants and more. The platform has an excellent escrow system for conflict resolution. 
 
-- Why we need Steem ob integration-
-Steem/ SBD integration would be a big asset for both communities. 
+- Benefits of Steem/ SBD integration on OpenBazaar:
+Steem/ SBD integration would be a big asset for both communities. It would provide more liquidity to the Steem eco-system and exposure of the excellent qualities of our blockchain. At the time of writing, the OpenBazaar community estimates at least 150 thousand nodes are running. Numbers are hard to come by on the platform by design, but however you look at it, that is a lot. We could all benefit by the faster transaction of Steem and the exposure on OpenBazaar.
 
+- History of the project:
 [previous call for developers](https://busy.org/@diggndeeper.com/dev-wanted-for-openbazaar-integration)
 
-- benefits to steem users and ecosystem
-Provide more liquidity to the Steem eco-system and exposure of the excellent qualities of our blockchain.
 
-I would like to find a developer who would detail the requirements for integration of Steem and SBD into the OpenBazaar platform and possibly perform the necessary changes. 
+We are looking to find a developer who would detail the requirements for integration of Steem and SBD into the OpenBazaar platform.  
 
 The task begins with a review of the documentation within [https://github.com/OpenBazaar/wallet-interface/blob/master/wallet.go](https://github.com/OpenBazaar/wallet-interface/blob/master/wallet.go) to see if there are any obvious gaps in their coin's ability to meet this interface. You can get in touch with OpenBazaar with questions to properly understand the scope of this work from their perspective.
 
