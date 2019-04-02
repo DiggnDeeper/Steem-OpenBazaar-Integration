@@ -38,4 +38,4 @@ Please contact DiggnDeeper on our Discord server, channel #ob-integration. The i
 #### Github
 https://github.com/DiggnDeeper
 
-With tags: utopian-io task-ideas
+With tags: utopian-io task-ideas steem opensource 
