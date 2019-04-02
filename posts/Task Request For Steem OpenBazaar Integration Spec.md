@@ -6,14 +6,14 @@ My GitHub account/ repo for this project: https://github.com/DiggnDeeper/Steem-O
 #### Details
 - <b>What is OpenBazaar?</b>
 [OpenBazaar](https://openbazaar.org/) is an open source, peer-to-peer platform for trading physical goods, services and crypto-currencies. There are no fees for using the software, listing, buying, or selling. It is easy to use and fully featured with inventory and listing management, product variants and more. The platform has an excellent escrow system for conflict resolution. 
-
+<br/>
 - <b>Benefits of Steem/ SBD integration on OpenBazaar:</b>
-Steem/ SBD integration would be a big asset for both communities. It would provide more liquidity to the Steem eco-system and exposure of the excellent qualities of our blockchain. At the time of writing, the OpenBazaar community estimates at least 150 thousand nodes are running. Numbers are hard to come by on the platform by design, but however you look at it, that is a lot. We could all benefit by the faster transaction of Steem and the exposure on OpenBazaar.
-
-- <b>Posts on @DiggnDeeper.com that started the project:</b>
-    -[Project Advice Needed: Is Using Alt Accounts A Good Idea?](https://busy.org/@diggndeeper.com/project-advice-needed-is-using-alt-accounts-a-good-idea) I decided to create a special account, @steemonob to help fund, promote, post to @utopian-io and update interested parties and donors. 
-    -[previous call for developers](https://busy.org/@diggndeeper.com/dev-wanted-for-openbazaar-integration) @swapsteem stepped in to help get things underway.
-    -[Steem Integration on OpenBazaar?](https://busy.org/@diggndeeper.com/steemintegrationonopenbazaar-t3jtsqwy0v)
+Steem/ SBD integration would be a big asset for both communities. It would provide more liquidity to the Steem eco-system and also exposure of the excellent qualities of our blockchain to the users of OpenBazaar. At the time of writing, the OpenBazaar community estimates at least <em>150 thousand nodes</em> are running. Numbers are hard to come by on the platform by design, but however you look at it, that is a lot. We could all benefit by the faster transaction of Steem and the exposure on OpenBazaar.
+<br/>
+- <b>Posts on @DiggnDeeper.com that started the project (newest on top):</b><br/>
+    -  <b>[Project Advice Needed: Is Using Alt Accounts A Good Idea?](https://busy.org/@diggndeeper.com/project-advice-needed-is-using-alt-accounts-a-good-idea)</b> I decided to create this special account, @steemonob to help fund, promote, post to @utopian-io and update interested parties and donors. My main blogging account is @DiggnDeeper.com
+    - <b>[Dev Wanted for OpenBazaar Integration!](https://busy.org/@diggndeeper.com/dev-wanted-for-openbazaar-integration)</b> Thankfully, @swapsteem stepped in to help get things underway with experienced guidance from developing his Steem based market.
+    - <b>[Steem Integration on OpenBazaar?](https://busy.org/@diggndeeper.com/steemintegrationonopenbazaar-t3jtsqwy0v)</b> The idea initially came from working with @HomesteadersCoop and thinking about ways to be more decentralized. 
 
 We are looking to find a developer who would detail the requirements for integration of Steem and SBD into the OpenBazaar platform.  
 
