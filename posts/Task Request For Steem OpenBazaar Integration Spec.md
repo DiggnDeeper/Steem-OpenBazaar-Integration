@@ -14,7 +14,7 @@ Steem/ SBD integration would be a big asset for both communities. It would provi
     -  <b>[Project Advice Needed: Is Using Alt Accounts A Good Idea?](https://busy.org/@diggndeeper.com/project-advice-needed-is-using-alt-accounts-a-good-idea)</b> I decided to create this special account, @steemonob to help fund, promote, post to @utopian-io and update interested parties and donors. My main blogging account is @DiggnDeeper.com
     - <b>[Dev Wanted for OpenBazaar Integration!](https://busy.org/@diggndeeper.com/dev-wanted-for-openbazaar-integration)</b> Thankfully, @swapsteem stepped in to help get things underway with experienced guidance from developing his Steem based market.
     - <b>[Steem Integration on OpenBazaar?](https://busy.org/@diggndeeper.com/steemintegrationonopenbazaar-t3jtsqwy0v)</b> The idea initially came from working with @HomesteadersCoop and thinking about ways to be more decentralized. 
-
+<br/>
 We are looking to find a developer who would detail the requirements for integration of Steem and SBD into the OpenBazaar platform.  
 
 The task begins with a review of the documentation within [https://github.com/OpenBazaar/wallet-interface/blob/master/wallet.go](https://github.com/OpenBazaar/wallet-interface/blob/master/wallet.go) to see if there are any obvious gaps in their coin's ability to meet this interface. You can get in touch with OpenBazaar with questions to properly understand the scope of this work from their perspective.
