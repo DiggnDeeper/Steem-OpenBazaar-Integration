@@ -1,4 +1,4 @@
-package litecoin
+package steem
 
 import (
 	"bytes"

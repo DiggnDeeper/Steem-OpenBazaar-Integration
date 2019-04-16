@@ -1,4 +1,4 @@
-package litecoin
+package steem
 
 import (
 	"bytes"
@@ -10,22 +10,7 @@ import (
 
 	"github.com/btcsuite/btcd/chaincfg"
 
-	"github.com/OpenBazaar/spvwallet"
 	wi "github.com/OpenBazaar/wallet-interface"
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/btcec"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
-	btc "github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/coinset"
-	hd "github.com/btcsuite/btcutil/hdkeychain"
-	"github.com/btcsuite/btcutil/txsort"
-	"github.com/btcsuite/btcwallet/wallet/txauthor"
-	"github.com/ltcsuite/ltcutil"
-	"github.com/ltcsuite/ltcwallet/wallet/txrules"
-
-	laddr "github.com/OpenBazaar/multiwallet/litecoin/address"
 	"github.com/OpenBazaar/multiwallet/util"
 )
 
